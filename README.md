@@ -196,7 +196,7 @@ graph LR
 - ☕ Fueled by **chai and curiosity**
 - 🐛 My debugging strategy: *add print statements everywhere*
 - 📖 Currently reading: *Hands-On ML with Scikit-Learn & TensorFlow*
-- 🏏 Cricket fan — data says Rohit Sharma is the GOAT 😄
+- 🏏 Cricket fan — data says Virat Kohli is the GOAT 😄
 - 💬 Ask me anything about Data, Python, or career advice for juniors!
 
 ---

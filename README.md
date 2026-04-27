@@ -35,7 +35,7 @@ class Rohit:
         return {
             "learning"  : ["Deep Learning", "MLOps", "SQL Advanced"],
             "building"  : ["ML Projects", "EDA Notebooks", "Dashboards"],
-            "goal"      : "Land my first Data/ML role in 2025 🎯"
+            "goal"      : "Land my first Data/ML role in 2026 🎯"
         }
 
     def say_hi(self):

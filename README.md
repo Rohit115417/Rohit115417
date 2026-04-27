@@ -27,7 +27,7 @@ class Rohit:
         self.name        = "Rohit"
         self.location    = "India 🇮🇳"
         self.role        = ["Aspiring ML Engineer", "Data Analyst","Data Scientist"]
-        self.education   = "B.Tech / BCA / BSc (pursuing)"
+        self.education   = "BCA"
         self.passion     = "Turning data into decisions"
         self.fun_fact    = "I debug with print() and I'm not ashamed 😄"
 
